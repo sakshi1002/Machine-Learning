@@ -1,4 +1,6 @@
 Titanic Survival Prediction Model 
+
+
 This project focuses on building a predictive model to determine the survival of passengers aboard the Titanic using Logistic Regression. The model uses historical data about passengers to predict whether they survived or not.
 
  Project Overview
